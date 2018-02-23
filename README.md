@@ -24,24 +24,26 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Are there other ways (read: "easier") to set layouts for different devices? 
+2. Should Auto Layout be automatically applied to items you place in the storyboard, and then be maanually changed around if necessary, rather than the other way around.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' https://i.imgur.com/oz6wHkN.gifv ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src=' https://i.imgur.com/lFfIl6E.gifv ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Auto Layout is my worst enemy. I definitely will have to go back and rewatch the tutorial videos on it, because I'm constantly having issues trying to get things to look the way I want.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2018] [Cory Dashiell]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
